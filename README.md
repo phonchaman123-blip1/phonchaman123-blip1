@@ -20,7 +20,7 @@ Robotics Engineering student at **KMUTNB** (King Mongkut's University of Technol
 |---|---|---|
 | [Lert Noi Jaew](https://github.com/phonchaman123-blip1/lert-noi-jaew) | Website for my family's Isaan food shop — [live site](https://lert-noi-jaew.web.app) | HTML/CSS, LINE LIFF, Firebase |
 | [AI Support Decision](https://github.com/phonchaman123-blip1/AI_support_decision_) | AI decision support for wafer defect inspection — CNN classifier with tiered escalation and a monitoring dashboard | Python, CNN, Streamlit |
-| RideBox | Web app for a startup competition product | Flask, SQLAlchemy, Docker |
+| [RideBox](https://github.com/phonchaman123-blip1/ridebox) | Web app for a pedal-powered energy storage kit (startup competition) | Flask, SQLAlchemy, Docker |
 | [Digital Image Processing](https://github.com/phonchaman123-blip1/Digital-image-processing) | Image processing projects incl. Thai banknote detection | Python, OpenCV |
 | [TurtleBot3 Simulation](https://github.com/phonchaman123-blip1/Turtlebot3_gazebo) | Robot control in a simulated environment | ROS2, Gazebo |
 
